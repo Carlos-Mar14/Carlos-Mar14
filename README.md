@@ -2,15 +2,30 @@
 ## A cerca de mi:
 **Soy Carlos Andrés Marín
 Desarrollador de software apasionado por la creación de soluciones innovadoras
-¡Bienvenido a mi perfil de GitHub! Soy un desarrollador de software con experiencia en el desarrollo de aplicaciones web y móviles. Mi enfoque principal es el desarrollo ágil de software, trabajando en equipo y adaptándome rápidamente a los cambios.
+¡Bienvenido a mi perfil de GitHub! Soy un desarrollador de software con experiencia en el desarrollo de aplicaciones web y móviles. Mi enfoque principal es el desarrollo ágil de software, trabajando en equipo y adaptándome rápidamente a los cambios.**
 
 **Formación Académica y Experiencia Laboral
 Tecnico en Desarrollo de Software del CESDE.
 He trabajado en varios proyectos destacados, incluyendo desarrollos de tiendas en línea, sistemas de reservas de hoteles y una aplicación para la automatización de procesos internos en una empresa durante mis prácticas empresariales.**
 
-**Tecnologías y Lenguajes de Programación
-Aquí hay algunas de las tecnologías y lenguajes de programación en los que tengo experiencia:**
-
+## Tecnologías y Lenguajes de Programación:
+<div>
+  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/git/git-plain.svg" title="Git" alt="HTML" width="40" height="40"/>&nbsp;       
+  <img src="https://github.com/devicons/devicon/blob/master/icons/html5/html5-original.svg" title="HTML5" alt="HTML" width="40" height="40"/>&nbsp;
+  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/css3/css3-original.svg" title="CSS3" width="40" height="40"/>&nbsp;
+  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/bootstrap/bootstrap-original.svg" title="Bootstrap" width="40" height="40"/>&nbsp;
+  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/javascript/javascript-original.svg" title="JS" width="40" height="40"/>&nbsp;
+  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/threejs/threejs-original.svg" title="ThreeJS" width="40" height="40"/>&nbsp;
+  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/opengl/opengl-original.svg" title="OpenGL" width="40" height="40"/>&nbsp;
+  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/npm/npm-original-wordmark.svg" title="npm" width="40" height="40"/>&nbsp;
+  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/express/express-original-wordmark.svg" title="express" width="40" height="40"/>&nbsp;
+  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/androidstudio/androidstudio-original.svg" title="androidStudio" width="40" height="40"/>&nbsp;
+  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/firebase/firebase-plain.svg" title="firebase" width="40" height="40"/>&nbsp;
+  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/mongodb/mongodb-plain-wordmark.svg" title="MongoDB" width="40" height="40"/>&nbsp;        
+  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/react/react-original.svg" title="react" width="40" height="40"/>&nbsp;
+  <img src="https://github.com/devicons/devicon/blob/master/icons/python/python-original.svg" title="Python" alt="Python" width="40" height="40"/>&nbsp;
+  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/mysql/mysql-plain-wordmark.svg" title="Numpy" alt="mySQL" width="40" height="40"/>&nbsp;
+</div>
 HTML
 CSS
 MongoDB
