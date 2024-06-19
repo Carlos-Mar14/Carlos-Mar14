@@ -22,7 +22,12 @@ He trabajado en varios proyectos destacados, incluyendo desarrollos de tiendas e
   <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/firebase/firebase-plain.svg" title="firebase" width="40" height="40"/>&nbsp;
   <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/mongodb/mongodb-plain-wordmark.svg" title="MongoDB" width="40" height="40"/>&nbsp;        
   <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/react/react-original.svg" title="react" width="40" height="40"/>&nbsp;
-  
+  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/java/java-original.svg" title="Java" width="40" height="40"/> &nbsp;
+  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/mysql/mysql-original.svg" title="MySQL" width="40" height="40"/> &nbsp;
+  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/eclipse/eclipse-original.svg" title="Eclipse" width="40" height="40"/> &nbsp;
+  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/objectivec/objectivec-original.svg" title="Object-Oriented Programming (OOP)" width="40" height="40"/> &nbsp;
+  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/workbench/workbench-original.svg" title="Workbench" width="40" height="40"/>
+
 </div>
 
 
