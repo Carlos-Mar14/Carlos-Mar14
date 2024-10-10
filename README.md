@@ -27,7 +27,6 @@ He trabajado en varios proyectos destacados, incluyendo desarrollos de tiendas e
   <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/mysql/mysql-original.svg" title="MySQL" alt="MySQL logo" width="40" height="40"/>&nbsp;
   <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/eclipse/eclipse-original.svg" title="Eclipse" width="40" height="40"/> &nbsp;
   <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/php/php-original.svg" title="PHP" alt="PHP logo" width="40" height="40"/>&nbsp;
-  <img src="https://cdn.jsdelivr.net/npm/laravel-elixir-icons@2.0.4/index.min.js" title="Laravel" alt="Laravel logo" width="40" height="40"/>&nbsp;
 </div>
 
 
